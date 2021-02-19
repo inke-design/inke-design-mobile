@@ -14,10 +14,10 @@ Start the dev server,
 $ npm start
 ```
 
-Build documentation,
+项目发布,
 
 ```bash
-$ npm run docs:build
+$ npm run release
 ```
 
 Build library via `father-build`,
