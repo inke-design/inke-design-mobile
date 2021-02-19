@@ -1,27 +1,16 @@
 # inke-design-mobile
 
-## Getting Started
+[文档地址](https://inke-design.github.io/inke-design-mobile/)
 
-Install dependencies,
+文档发布流程，如果第一步到95%卡住了，直接手动结束，不影响打包结果
 
 ```bash
-$ npm i
+$ npm run docs:build
+
+$ npm run docs:deploy
 ```
-
-Start the dev server,
-
-```bash
-$ npm start
-```
-
-项目发布,
+组件库打包发布
 
 ```bash
+
 $ npm run release
-```
-
-Build library via `father-build`,
-
-```bash
-$ npm run build
-```
